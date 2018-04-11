@@ -10,6 +10,7 @@ namespace _05_ByteBank
     {
         static void Main(string[] args)
         {
+            Cliente gabriela = new Cliente();
         }
     }
 }
